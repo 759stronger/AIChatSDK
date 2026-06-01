@@ -1,0 +1,14 @@
+build/
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.db
+*.tar.gz
+*.log
+.DS_Store
+.vscode/
+.idea/
+cmake-build-*/
+CMakeUserPresets.json
